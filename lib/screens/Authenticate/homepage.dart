@@ -32,7 +32,7 @@ class _HomepageState extends State<Homepage> {
       tabs: <Tab>[
         Tab(
           child: Text(
-            'COURRIER',
+            'COURRIE',
             style: TextStyle(
               // color: Color(0xFF000000),
               fontSize: 15,
